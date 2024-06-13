@@ -1,0 +1,46 @@
+.App {
+    text-align: start;
+    font-family: poppins;
+  }
+  
+  input {
+    width: 100%;
+  }
+  
+  select {
+    width: 100%;
+  }
+  
+  .submit input {
+    height: 60px;
+    font-size: 20px;
+  }
+  
+  textarea {
+    width: 374px;
+    height: 100px;
+  }
+  
+  .Task {
+    width: 300px;
+    height: 300px;
+    padding: 10px 30px;
+    margin-bottom: 20px;
+  }
+  
+  .Task h1 {
+    text-align: center;
+  }
+  
+  .Task .heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .Task .heading button {
+    border: none;
+    background-color: white;
+    padding: 5px;
+    color: none;
+  }
